@@ -1,4 +1,4 @@
-@@ -0,0 +1,107 @@
+
 ####
 #World Map Project
 #
@@ -106,4 +106,3 @@ while is_alive:
         node = world_map[node['PATHS'][command]]
     except:
         print 'You can\'t'
-\ No newline at end of file
